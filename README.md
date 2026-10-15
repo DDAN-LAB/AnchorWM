@@ -29,3 +29,9 @@ Code references: [Gaussian Shading](https://github.com/bsmhmmlf/Gaussian-Shading
 [pytorch-softdtw-cuda](https://github.com/Maghoumi/pytorch-softdtw-cuda)
 [AudioLDM](https://github.com/haoheliu/AudioLDM),
 [Timbre Watermarking](https://github.com/TimbreWatermarking/TimbreWatermarking).
+
+## Citation
+If you find our work useful for your research, please consider citing the following papers :
+
+Rong, X., & Hu, D. (2026). Anchor Watermark: Robust Attribution for Diffusion-based Text-to-Audio Model. Proceedings of the AAAI Conference on Artificial Intelligence, 40(39), 32817–32825. https://doi.org/10.1609/aaai.v40i39.40561
+
